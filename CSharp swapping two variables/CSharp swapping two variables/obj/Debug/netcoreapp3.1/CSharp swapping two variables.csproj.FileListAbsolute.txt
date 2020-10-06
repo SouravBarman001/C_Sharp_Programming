@@ -1,0 +1,12 @@
+D:\C_Sharp_Programming\CSharp swapping two variables\CSharp swapping two variables\bin\Debug\netcoreapp3.1\CSharp swapping two variables.exe
+D:\C_Sharp_Programming\CSharp swapping two variables\CSharp swapping two variables\bin\Debug\netcoreapp3.1\CSharp swapping two variables.deps.json
+D:\C_Sharp_Programming\CSharp swapping two variables\CSharp swapping two variables\bin\Debug\netcoreapp3.1\CSharp swapping two variables.runtimeconfig.json
+D:\C_Sharp_Programming\CSharp swapping two variables\CSharp swapping two variables\bin\Debug\netcoreapp3.1\CSharp swapping two variables.runtimeconfig.dev.json
+D:\C_Sharp_Programming\CSharp swapping two variables\CSharp swapping two variables\bin\Debug\netcoreapp3.1\CSharp swapping two variables.dll
+D:\C_Sharp_Programming\CSharp swapping two variables\CSharp swapping two variables\bin\Debug\netcoreapp3.1\CSharp swapping two variables.pdb
+D:\C_Sharp_Programming\CSharp swapping two variables\CSharp swapping two variables\obj\Debug\netcoreapp3.1\CSharp swapping two variables.AssemblyInfoInputs.cache
+D:\C_Sharp_Programming\CSharp swapping two variables\CSharp swapping two variables\obj\Debug\netcoreapp3.1\CSharp swapping two variables.AssemblyInfo.cs
+D:\C_Sharp_Programming\CSharp swapping two variables\CSharp swapping two variables\obj\Debug\netcoreapp3.1\CSharp swapping two variables.csproj.CoreCompileInputs.cache
+D:\C_Sharp_Programming\CSharp swapping two variables\CSharp swapping two variables\obj\Debug\netcoreapp3.1\CSharp swapping two variables.dll
+D:\C_Sharp_Programming\CSharp swapping two variables\CSharp swapping two variables\obj\Debug\netcoreapp3.1\CSharp swapping two variables.pdb
+D:\C_Sharp_Programming\CSharp swapping two variables\CSharp swapping two variables\obj\Debug\netcoreapp3.1\CSharp swapping two variables.genruntimeconfig.cache
